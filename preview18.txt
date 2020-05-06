@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRFirstInit</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>GRFirstInit</string>
+		<key>TimeStamp</key>
+		<string>2020-05-06 16:32:30</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>TimeStamp</key>
+		<string>2020-05-06 16:32:39</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>deng lu</string>
+		<key>TimeStamp</key>
+		<string>2020-05-06 16:33:05</string>
+	</dict>
+</array>
+</plist>
