@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRFirstInit</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>GRFirstInit</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:24</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:26</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>right deng lu</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:27</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>right zhu ce</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:28</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>right deng lu</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:29</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>deng lu</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:30</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:33</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:35</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>gong cheng</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 10:30:35</string>
+		<key>UUID</key>
+		<string>9F948666-9583-484B-8B58-1AEB367DACD7</string>
+	</dict>
+</array>
+</plist>
