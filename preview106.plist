@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRFirstInit</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>GRFirstInit</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:44</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:46</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>deng lu</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:48</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:51</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:52</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>gong cheng</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:52</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>back</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:56</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRShangController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:57</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>jin bi</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:57</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRShangController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>shang cheng back</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:00</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRXunLianTipController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:01</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>xun lian</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:01</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRGongChengViewController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:04</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRXunLianTipController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>jin ru xun lian</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:04</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:17</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>gong cheng</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:17</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>back</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:21</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:23</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>gong cheng</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:23</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>back</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:28</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:29</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMainController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>gong cheng</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:29</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapTipController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:31</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRMapperController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>jing zhou</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:31</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRGongChengViewController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:55:32</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+</array>
+</plist>
