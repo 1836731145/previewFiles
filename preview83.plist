@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRFirstInit</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>GRFirstInit</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:44</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+	<dict>
+		<key>CurrentLocation</key>
+		<string>GRSignInController</string>
+		<key>HOST</key>
+		<string>192.168.80.137</string>
+		<key>Point</key>
+		<string>viewDidLoad</string>
+		<key>SystemVersion</key>
+		<string>13.2.2</string>
+		<key>TimeStamp</key>
+		<string>2020-05-07 11:54:46</string>
+		<key>UUID</key>
+		<string>B2B4D209-DBE1-4029-9348-DB104EFE3333</string>
+	</dict>
+</array>
+</plist>
