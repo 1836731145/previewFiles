@@ -1,3 +1,7 @@
 {
-    "shenjaingguilai":"https://www.baidu.com/"
+    "shenjaingguilai": "https://www.baidu.com/",
+    "trunk_path": "../../trunk",
+    "branches_path": "../../branchs",
+    "server_path": "../../trunk/server",
+    "save_day":
 }
